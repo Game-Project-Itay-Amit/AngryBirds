@@ -2,7 +2,7 @@
 
 A simple game that mimics Angry Birds, use your mouse to drag the blue bird and launch it at the chickens.
 
-itch.io : 
+itch.io : https://amitay2022.itch.io/angrybirdsmimic
 
 # Scripts :
 
